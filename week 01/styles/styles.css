@@ -1,4 +1,46 @@
 nav{
     background-color: darkblue;
     padding: 10px;
+    text-align: center;
+}
+
+main {
+    max-width: 840px;
+    width: 600px;
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0/0.2);
+    padding: 1rem;
+    background-color:#eee;
+    color:#333;
+    text-align: center;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0/0.2);
+    padding: 1rem;
+    background-color:#eee;
+    color:#333;
+    text-align: center;
+    
+
+}
+
+aside img {
+        width: 300px;
+        height: auto;
+    }
+
+main img {
+    width: 150px;
+    height: auto;
+    p {
+        padding: 0;
+    }
+}
+footer {
+    margin-top: 1em;
+    border-top: 1px solid black;
+    text-align: center;
 }
