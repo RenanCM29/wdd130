@@ -1,12 +1,12 @@
 nav{ 
     background-color: darkblue; /*this is a example of comment*/
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 h1 {
     color: darkblue;
-}
+}   
 
 main {
     max-width: 840px;
