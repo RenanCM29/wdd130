@@ -6,9 +6,6 @@ nav{
 
 nav a {
     color: white;
-    padding: 10px;
-    display: inline-block   ;
-
     
 }
 
@@ -41,7 +38,7 @@ aside {
 
 aside img {
         width: 200px;
-        height: 150px;
+        height: auto;
     }
 
 main img {
