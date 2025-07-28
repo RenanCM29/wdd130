@@ -4,6 +4,11 @@ nav{
     text-align: center;
 }
 
+nav a {
+    color: white;
+    
+}
+
 h1 {
     color: darkblue;
 }
@@ -42,7 +47,7 @@ main img {
     
 }
 
-p {
+main p {
     padding: 2px;
     }
 
