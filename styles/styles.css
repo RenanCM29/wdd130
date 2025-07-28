@@ -4,11 +4,6 @@ nav{
     text-align: left;
 }
 
-nav a {
-    color: white;
-    
-}
-
 h1 {
     color: darkblue;
 }
@@ -42,8 +37,9 @@ aside img {
     }
 
 main img {
-    width: 150px;
-    height: 200px;
+    width: 200px;
+    height: auto;
+
     
 }
 
