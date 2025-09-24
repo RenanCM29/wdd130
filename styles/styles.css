@@ -6,11 +6,8 @@ nav{
 
 nav a {
     color: white;
-    text-decoration: none;
-    margin: 5px;
-    font-size: .9rem;
     padding: 1px;
-    display: block;
+    display:block;
 }
 
 h1 {
